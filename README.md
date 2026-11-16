@@ -39,20 +39,7 @@ Abra `http://localhost:8000`. Não é necessário instalar dependências JavaScr
 | `app.js` | Navegação, cronograma, prática, revisão e backup |
 | `.nojekyll` | Publicação dos arquivos estáticos sem processamento Jekyll |
 
-## Publicação
 
-Os arquivos estão na raiz e podem ser servidos diretamente por uma hospedagem estática, sem comando de build.
-
-Para GitHub Pages, configure nas opções do repositório a publicação a partir da branch `main`, pasta `/ (root)`. A disponibilidade da hospedagem depende das permissões e do plano da conta. Consulte a [documentação oficial do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
-Para usar domínio próprio, primeiro publique e confirme o endereço padrão. Em seguida, configure o domínio na hospedagem e os registros DNS no provedor. O valor exato depende de o domínio ser raiz ou subdomínio. Não há um domínio pré-configurado neste projeto. Siga a [documentação oficial sobre domínio personalizado](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
-
-## Personalização
-
-- Edite `courses` e `rawQuestions` em `data.js` para ajustar conteúdo e questões.
-- Ajuste `schedule` e as datas de prova em `app.js` e `data.js` para outro período.
-- O plano inicial é de 16/11 a 04/12/2026, com 19/11 livre.
-- Os dados de Python são organizados a partir dos quatro blocos gerais da ementa; os subtópicos são uma proposta de estudo.
 
 ## Persistência e limites
 
