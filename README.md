@@ -1,6 +1,8 @@
 # Rota da Aprovação
 
 Painel de preparação acadêmica em português, desenvolvido para organizar estudo, prática e revisão de Arquitetura de Computadores, Python e Estrutura de Dados.
+
+Painel de estudos para avaliações de ADS.
 (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 ## Funcionalidades
