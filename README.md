@@ -2,7 +2,7 @@
 
 Painel de preparação acadêmica em português, desenvolvido para organizar estudo, prática e revisão de Arquitetura de Computadores, Python e Estrutura de Dados.
 (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
+pa
 ## Funcionalidades
 
 - Três trilhas com 19 ciclos, 55 tópicos e resumos de consulta.
